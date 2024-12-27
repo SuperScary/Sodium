@@ -1,7 +1,0 @@
-[package]
-name = "Sodium"
-version = "0.1.0"
-edition = "2021"
-
-[dependencies]
-crossterm = "0.21.0"
